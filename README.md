@@ -9,15 +9,7 @@ Classify apparel images in Fashion-MNIST dataset using custom built fully-connec
 ⚡Fashion MNIST  
 ⚡PyTorch
 
-## Table of Contents
-- [Introduction](#introduction) 
-- [Objective](#objective)
-- [Dataset](#dataset)
-- [Evaluation Criteria](#evaluation-criteria)
-- [Solution Approach](#solution-approach)
-- [How To Use](#how-to-use)
-- [License](#license)
-- [Get in touch](#get-in-touch)
+
 
 ## Introduction
 Just like [MNIST digit classification](https://github.com/sssingh/hand-written-digit-classification), the [Fashion-MNIST dataset](https://github.com/zalandoresearch/fashion-mnist) is a popular dataset for classification in the Machine Learning community for building and testing neural networks. MNIST is a pretty trivial dataset to be used with neural networks where one can quickly achieve better than 97% accuracy. Experts recommend ([Ian Goodfellow](https://twitter.com/goodfellow_ian/status/852591106655043584), [François Chollet](https://twitter.com/fchollet/status/852594987527045120)) to move away from MNIST dataset for model benchmarking and validation. Fashion-MNIST is more complex than MNIST, and it's a much better dataset for evaluating models than MNIST.
